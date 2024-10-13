@@ -10,5 +10,5 @@
 
 - Remix Config
 
-  <img src="./README.assets/image-20241013121430530.png" alt="image-20241013121430530" style="zoom:50%;" />
+  <img src="./README.assets/image-20241013121430530.png" alt="image-20241013121430530" width="400px" />
 
