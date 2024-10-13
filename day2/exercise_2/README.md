@@ -1,3 +1,9 @@
+## Prepare
+
+```
+npx hardhat typechain
+```
+
 ## Build Your First Cross-Chain NFT
 
 XNFT deployed on ethereumSepolia with address:
